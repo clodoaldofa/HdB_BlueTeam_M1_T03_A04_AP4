@@ -1,11 +1,8 @@
-# Hacker do Bem
-## 2ª Onda - Blue Team
-## Módulo 1 - Turm 03 - Aula 04
-## Atividade Prática 4
-Atividade Prática HdB Especializado BluTeam Módulo 1 Turma 03 Aula 04 AP 4
+# Hackers do Bem
+## 2ª Onda - Blue Team - Módulo 1 - Turm 03
+## Aula 04 - Atividade Prática 4
 
 # Clodoaldo Francisco de Assis
-
 ## Sobre mim
 
 Atualmente sou um profissonal da área de infraestrutura de redes de computadores com foco em Pequenas e Médias Empresas (PME). Neste trabalho, sou especialista em Microsoft ADDS (LDAP) e a partir deste modelo de organização para uma rede de computadores, transito por temas como: DNS, DHCP, GPO, DFS, DevSecOps, Firewall, Virtualização, Switch, Rack, Cabeamento Estruturado, ISO 27000, ITIL, ESG, CID, Backup, Backbone, Server SO, Client SO, Cloud, Ativos de TI, Microsoft Office, Servidores WEB e Plugins entre tantos outros.
