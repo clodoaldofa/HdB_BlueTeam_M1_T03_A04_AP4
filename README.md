@@ -71,5 +71,4 @@ Como desde 1991 já trabalho na área da Tecnologia da Informação, isto me per
 
 ## Licença
 
- - <em>Momentaneamente Indefinida</em>
-
+ - <em>[MIT](https://choosealicense.com/licenses/mit/)</em>
